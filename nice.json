@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Cozette",
+    "previewText": "Cozette",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Bold.otf",
+        "ggsans-Bold": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Bold.otf",
+        "ggsans-BoldItalic": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-BoldItalic.otf",
+        "ggsans-ExtraBold": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Bold.otf",
+        "ggsans-ExtraBoldItalic": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-BoldItalic.otf",
+        "ggsans-Medium": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Medium.otf",
+        "ggsans-MediumItalic": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-MediumItalic.otf",
+        "ggsans-Normal": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Regular.otf",
+        "ggsans-NormalItalic": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-RegularItalic.otf",
+        "ggsans-Semibold": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Semibold.otf",
+        "ggsans-SemiboldItalic": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-SemiboldItalic.otf",
+        "NotoSans-Bold": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Bold.otf",
+        "NotoSans-ExtraBold": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Bold.otf",
+        "NotoSans-Medium": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Medium.otf",
+        "NotoSans-Normal": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Regular.otf",
+        "NotoSans-NormalItalic": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-RegularItalic.otf",
+        "NotoSans-Semibold": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Semibold.otf",
+        "SourceCodePro-Semibold": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Semibold.otf"
+    }
+}

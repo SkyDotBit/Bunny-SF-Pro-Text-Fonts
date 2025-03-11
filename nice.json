@@ -1,7 +1,7 @@
 {
     "spec": 1,
-    "name": "Cozette",
-    "previewText": "Cozette",
+    "name": "SF Pro Text",
+    "previewText": "SF Pro Text",
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Bold.otf",
         "ggsans-Bold": "https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/raw/refs/heads/master/SF-Pro-Text-Bold.otf",
